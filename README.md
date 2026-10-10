@@ -28,6 +28,7 @@ Insert gif or link to demo
 
 ## Documentation
 **Trajectory Tracking Method:**
+![System Design Image](https://github.com/naufalra/Discrete-PID-Control-for-Waypoint-Tracking-of-an-IMU-Based-Tendon-Driven-Continuum-Robot/blob/main/Trajectory%20Tracking%20Method.jpg?raw=true)
 
 **System Design** 
 ![System Design Image](https://github.com/naufalra/Discrete-PID-Control-for-Waypoint-Tracking-of-an-IMU-Based-Tendon-Driven-Continuum-Robot/blob/main/System%20and%20GUI%20design.jpg?raw=true)
