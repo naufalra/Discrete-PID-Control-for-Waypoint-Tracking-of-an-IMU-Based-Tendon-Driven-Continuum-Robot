@@ -40,6 +40,7 @@ Insert gif or link to demo
 ![System Design Image](https://github.com/naufalra/Discrete-PID-Control-for-Waypoint-Tracking-of-an-IMU-Based-Tendon-Driven-Continuum-Robot/blob/main/Electronics%20Design.jpg?raw=true)
 
 **PID Trajectory Result**
+
 ![System Design Image](https://github.com/naufalra/Discrete-PID-Control-for-Waypoint-Tracking-of-an-IMU-Based-Tendon-Driven-Continuum-Robot/blob/main/Trajectory%20Tracking%20Result.jpg?raw=true)
 ## Acknowledgements
 
